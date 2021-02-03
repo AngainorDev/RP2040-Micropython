@@ -3,7 +3,7 @@
 This requires the Pimoroni's enabled micropython from https://github.com/pimoroni/pimoroni-pico/blob/main/setting-up-micropython.md
 
 
-## Why
+## Why
 
 We plan to use the Raspberry Pi pico and the RGB keypad for a future project.  
 First step is to get familiar with the hardware and libraries.
@@ -17,7 +17,7 @@ The rain effect from Matrix seemed a good introduction, however limited due to t
 - Pimoroni RGB Key pad  
   https://shop.pimoroni.com/products/pico-rgb-keypad-base
 
-## The code 
+## The code 
 
 See rain.py  
 It's not very clean, but it works.
