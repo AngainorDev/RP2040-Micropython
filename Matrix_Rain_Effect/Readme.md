@@ -10,6 +10,8 @@ First step is to get familiar with the hardware and libraries.
 
 The rain effect from Matrix seemed a good introduction, however limited due to the small number of leds.
 
+![rain effect raspberry pico](https://github.com/AngainorDev/RP2040-Micropython/blob/main/Matrix_Rain_Effect/matrix-rain-pico.gif)
+
 ## Required
 
 - Raspberry Pi Pico  
