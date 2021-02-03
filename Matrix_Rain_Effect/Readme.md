@@ -1,6 +1,7 @@
 # "Matrix" rain effect on Raspberry Pi Pico with Pimoroni's RGB keypad
 
-This requires the Pimoroni's enabled micropython from https://github.com/pimoroni/pimoroni-pico/blob/main/setting-up-micropython.md
+This requires the Pimoroni's enabled micropython from https://github.com/pimoroni/pimoroni-pico/blob/main/setting-up-micropython.md  
+See also https://github.com/AngainorDev/RP2040-Micropython/blob/main/Doc/Install_micropython.md for more info
 
 
 ## Why
