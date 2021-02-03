@@ -21,7 +21,7 @@ The rain effect from Matrix seemed a good introduction, however limited due to t
 
 ## The code 
 
-See rain.py  
+See https://github.com/AngainorDev/RP2040-Micropython/blob/main/Matrix_Rain_Effect/rain.py 
 It's not very clean, but it works.
 
 Random flakes appear at top and they scroll down, losing brightness as they go.
